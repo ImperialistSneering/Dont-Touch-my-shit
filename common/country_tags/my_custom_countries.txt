@@ -1,2 +1,3 @@
 TES = "countries/Test.txt"
 AQU = "countries/Aquitaine.txt"
+FOI = "countries/Foix.txt"
