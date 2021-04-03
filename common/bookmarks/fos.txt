@@ -1,0 +1,37 @@
+bookmarks = {
+	bookmark = {
+		name = "1065_NAME"
+		desc = "1065_DESC"
+		date = 1065.1.1.12
+		picture = "GFX_select_date_1065"
+		default_country = "AQU"
+		default = yes
+
+		AQU = {
+			history = AQU_1065_DESC
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		TES = {
+			history = AQU_1065_DESC
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		--- = {
+			history = OTH_1065_DESC
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+	}
+}
