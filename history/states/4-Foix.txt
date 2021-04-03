@@ -1,0 +1,21 @@
+state = {
+	id = 4
+	name="STATE_4"
+	manpower = 12381
+	state_category = town
+
+	history = {
+		owner = FOI
+		victory_points = {
+			4919 3 
+		}
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = FOI
+	}
+
+	provinces = {
+		2630 2654 4252 4919 5196 6286 7001
+	}
+}
