@@ -1,4 +1,10 @@
-﻿l_english:
+###########################################################
+#                                                         #
+# You already know how to edit localization files Pyra <3 #
+#                                                         #
+###########################################################
+
+l_english:
  TES_fascism:0 "Microwave Cooking for One"
  TES_fascism_DEF:0 "Microwave Cooking for One"
  TES_democratic:0 "Microwave Cooking for One"
@@ -14,6 +20,8 @@
  TES:0 "Microwave Cooking for One"
  TES_DEF:0 "Microwave Cooking for One"
  TES_ADJ:0 "Microwave Cooking for One"
+ 
+ ## Duchy of Aquitaine
  AQU_neutrality:0 "Duchy of Aquitaine"
  AQU_neutrality_DEF:0 "the Duchy of Aquitaine"
  AQU_neutrality_ADJ:0 "Aquitaine"
