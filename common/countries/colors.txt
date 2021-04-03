@@ -1,4 +1,20 @@
-TES = {
-	color = rgb { 126  171  226 }
-	color_ui = rgb { 126  171  226 }
+##################################################################################################
+#                                                                                                #
+#                           This file sets your countries' colours.                              #
+#                                                                                                #
+#   Regardless of what your common/countries file says, this file overwrites its rgb colours.    #
+#                                                                                                #
+##################################################################################################
+
+# Test Country (Blueish)
+TES = {                                             # Country scope, needs to match the original tag you assigned to a country
+	color = rgb { 126  171  226 }               # This RGB scope determines the actual country's political map colour.
+	color_ui = rgb { 126  171  226 }            # This RGB scope determines the army colours of your country.
+}
+
+
+# Aquitaine (Purple)
+AQU = {
+	color = rgb { 133  104  164 }
+	color_ui = rgb { 133  104  164 }
 }
