@@ -1,0 +1,4 @@
+TES = {
+	color = rgb { 126  171  226 }
+	color_ui = rgb { 126  171  226 }
+}
