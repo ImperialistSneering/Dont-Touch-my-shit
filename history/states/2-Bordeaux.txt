@@ -1,0 +1,20 @@
+﻿state = {
+    id = 2
+    name = "STATE_2"
+    manpower = 10000
+    
+    state_category = city
+
+    history = {
+        owner = TES
+        victory_points = { 391 50 }
+        buildings = {
+            infrastructure = 3
+        }
+        add_core_of = TES
+    }
+
+    provinces = {
+        391 1259 
+     }
+}
