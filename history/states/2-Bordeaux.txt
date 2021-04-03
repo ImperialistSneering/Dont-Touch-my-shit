@@ -6,12 +6,12 @@
     state_category = city
 
     history = {
-        owner = TES
+        owner = AQU
         victory_points = { 391 50 }
         buildings = {
             infrastructure = 3
         }
-        add_core_of = TES
+        add_core_of = AQU
     }
 
     provinces = {
