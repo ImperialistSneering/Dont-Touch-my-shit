@@ -1,3 +1,11 @@
 ﻿l_english:
  VICTORY_POINTS_TOOLTIP:0 "§G$NAME$§! victory points = §Y$POINTS$§!"
+ ######################################################################
+ #                                                                    #
+ #    Add new victory points by adding the line "VICTORY_POINTS_"     #
+ #       followed by the desired province ID for your new city.       #
+ #                                                                    #
+ ######################################################################
+ 
  VICTORY_POINTS_319:0 "Bordeaux"
+ VICTORY_POINTS_4919:0 "Foix"
